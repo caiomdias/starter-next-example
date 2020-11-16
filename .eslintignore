@@ -1,0 +1,8 @@
+# Arquivos do node modules
+node_modules
+
+# Arquivos do Next.JS
+.next
+
+# Arquivos .js no projeto
+/*.js
