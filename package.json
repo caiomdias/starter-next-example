@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint ./src --ext .js,.jsx,.ts,.tsx",
-    "test": "jest --watch",
+    "test": "jest",
     "coverage": "jest --coverage"
   },
   "dependencies": {
